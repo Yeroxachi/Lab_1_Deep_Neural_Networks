@@ -1,0 +1,16 @@
+# dataset is downloaded by the notebook
+data/
+
+# course material and local helper files
+lab 1.docx
+progress.log
+run_dl.log
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# archives
+*.zip
+*.tar.gz
